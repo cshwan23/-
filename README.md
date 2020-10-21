@@ -1,6 +1,7 @@
-# 자바기초	//명시적 형 변환 : 수동적 형변환
+#Explicit Conversion
 	
-	
+		//Explicit Conversion:
+		//명시적 형 변환 : 수동적 형변환
 //  float d = 100.0;
 
 //100.0 은 실수이다.
